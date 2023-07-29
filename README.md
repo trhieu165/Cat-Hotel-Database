@@ -44,4 +44,4 @@ Remember this is just a simple database, I created for myself to learns how to u
   * number_of_night: Number of days a cat stays in the hotel
   * arrival_date: Arrival date 
   * departure_date: Departure date
-* ##### [Created Tables Queries] (https://github.com/nguyenhieuhp96/Cat-Hotel-Database/blob/main/SQL%20Create%20Table/Create_Table_Query.sql)
+* ##### [Created Tables Queries](https://github.com/nguyenhieuhp96/Cat-Hotel-Database/blob/main/SQL%20Create%20Table/Create_Table_Query.sql)
