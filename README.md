@@ -19,7 +19,7 @@ Remember this is just a simple database, I created for myself to learns how to u
   * Database is too simple
 
 ### II. CREATE DATABASE
-#### 1. Table
+#### 1. Tables
 * ##### reservation_fact:
   * booking_id: A unique confirmation number for each cat and date of service
   * cat_id: A unique number for each cat
@@ -45,3 +45,6 @@ Remember this is just a simple database, I created for myself to learns how to u
   * arrival_date: Arrival date 
   * departure_date: Departure date
 * ##### [Created Tables Queries](https://github.com/nguyenhieuhp96/Cat-Hotel-Database/blob/main/SQL%20Create%20Table/Create_Table_Query.sql)
+
+#### 2. Queries
+
