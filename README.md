@@ -47,4 +47,13 @@ Remember this is just a simple database, I created for myself to learns how to u
 * ##### [Created Tables Queries](https://github.com/nguyenhieuhp96/Cat-Hotel-Database/blob/main/SQL%20Create%20Table/Create_Table_Query.sql)
 
 #### 2. Queries
-
+##### 1: Thành phố nào có lượng book phòng nhiều nhất, sắp xếp theo thứ tự giảm dần 
+##### 2: Số lượng booking của các loại phòng, sắp xếp theo thứ tự giảm dần
+##### 3: Tìm ra danh sách những bé mèo và giống của mèo ở Hà Nội, Hải Phòng
+##### 4: Doanh thu từ các thành phố giảm dần
+##### 5: Liệt kê ra thời gian đến và thời gian đi của những bé mèo đã ở được hơn 5 ngày
+##### 6: Liệt ra tên mèo, nơi đến, thời gian ở và thời gian đi từ 5/1/2023 cho đến 1/3/202
+##### 7: Tìm ra doanh thu của các thành phố và xếp hạng cho thành phố nào đem lại doanh thu nhiều nhất từ số thứ tự 1 rồi tuần tự xuống, 2 thành phố có cùng 1 doanh thu vẫn có số thứ tự khác nhau
+##### 8: Tìm ra số lần ở của tất cả các giống mèo
+##### 9: Doanh thu của mỗi tháng
+##### 10: Tổng số tiền sử dụng dịch vụ phòng của các bé mèo
