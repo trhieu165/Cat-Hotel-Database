@@ -19,7 +19,7 @@ Remember this is just a simple database, I created for myself to learns how to u
   * Database is too simple
 
 ### II. CREATE DATABASE
-#### 1. Tables
+#### 1. [Tables](https://github.com/nguyenhieuhp96/Cat-Hotel-Database/blob/main/SQL%20Create%20Table/Create_Table_Query.sql)
 * ##### reservation_fact:
   * booking_id: A unique confirmation number for each cat and date of service
   * cat_id: A unique number for each cat
@@ -44,9 +44,8 @@ Remember this is just a simple database, I created for myself to learns how to u
   * number_of_night: Number of days a cat stays in the hotel
   * arrival_date: Arrival date 
   * departure_date: Departure date
-* ##### [Created Tables Queries](https://github.com/nguyenhieuhp96/Cat-Hotel-Database/blob/main/SQL%20Create%20Table/Create_Table_Query.sql)
 
-#### 2. Queries
+#### 2. [Queries](https://github.com/nguyenhieuhp96/Cat-Hotel-Database/blob/main/SQL%20Queries/SQLQuery.sql)
 ##### 1: Thành phố nào có lượng book phòng nhiều nhất, sắp xếp theo thứ tự giảm dần 
 ##### 2: Số lượng booking của các loại phòng, sắp xếp theo thứ tự giảm dần
 ##### 3: Tìm ra danh sách những bé mèo và giống của mèo ở Hà Nội, Hải Phòng
