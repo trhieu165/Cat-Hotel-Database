@@ -1,9 +1,9 @@
 # Cat-Hotel-Database
 ## Welcome to Icream Cat Hotel! The database is to improve data management, provide better service for cats! 
-Remember this is just a simple database, I created for myself to learns how to use Microsoft SQL Server.
+Remember this is just a simple database, I created for myself to learns how to use PostgreSQL Server.
 ![photo_2023-07-28_15-43-24](https://github.com/nguyenhieuhp96/Cat-Hotel-Database/assets/135586659/83db43f4-a04c-4686-822d-1afea638818f)
 
-![microsoft-sql-server4529](https://github.com/nguyenhieuhp96/Cat-Hotel-Database/assets/135586659/e254bbb7-3217-4a97-a724-ebb653eb86f8)
+![PostgreSQL-Logo](https://github.com/user-attachments/assets/e4153bbf-9392-48b4-a8ea-18b717b9e2c1)
 ### I. INTRODUCTION 
 #### 1. Database
 * ##### Database Name: Icream Cat Hotel
