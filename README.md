@@ -8,7 +8,8 @@ Remember this is just a simple database, I created for myself to learns how to u
 #### 1. Database
 * ##### Database Name: Icream Cat Hotel
 * ##### Database Diagram
-<img width="697" alt="image" src="https://github.com/nguyenhieuhp96/Cat-Hotel-Database/assets/135586659/9369567a-9c58-48f6-a531-39544318a508">
+* <img width="684" alt="hotel_cat_database" src="https://github.com/user-attachments/assets/3154a9c9-f484-4401-8d68-53f7a6bd094e"
+
 
 #### 2. Advantages and Disadvantages
 * ##### Advantages:
