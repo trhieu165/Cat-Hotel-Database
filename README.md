@@ -19,31 +19,33 @@ Remember this is just a simple database, I created for myself to learns how to u
   * Database is too simple
 
 ### II. CREATE DATABASE
-#### 1. [Tables](https://github.com/nguyenhieuhp96/Cat-Hotel-Database/blob/main/SQL%20Create%20Table/Create_Table_Query.sql)
-* ##### reservation_fact:
-  * booking_id: A unique confirmation number for each cat and date of service
-  * cat_id: A unique number for each cat
-  * room_number: Hotel room number
-  * price: Price of a hotel room
-  * number_of_night: Number of days a cat stays in the hotel
-* ##### cat_dim:
-  * booking_id: A unique confirmation number for each cat and date of service
-  * cat_id: A unique number for each cat
-  * cat_name: Name of the cat
-  * cat_type: Type of the cat
-* ##### booking_dim:
-  * booking_id: A unique confirmation number for each cat and date of service
-  * booking_location: Where the cat come from
-* ##### room_dim:
-  * booking_id: A unique confirmation number for each cat and date of service
-  * room_number: Hotel room number
+#### 1. Tables
+* ##### fact_hotel:
+  * sale_id: A unique number for each service
+  * customer_id: A unique number for each customer
+  * pet_id: A unique number for each cat
+  * room_id: A unique number for each room type
+  * booking_id: A unique confirmation number for each date of service
+* ##### dim_cat:
+  * pet_id: A unique number for each cat
+  * name: Name of the cat
+  * age: Age of the cat
+  * gender: Gender of the cat
+  * species: Specie of the cat
+* ##### dim_booking:
+  * booking_id: A unique confirmation number for each date of service
+  * check_in: Check in date
+  * check_out: Check out date
+* ##### dim_room:
+  * room_id: A unique number for each room type
   * room_type: Type of the room
-  * price: Price of the room
-* ##### time_dim:
-  * booking_id: A unique confirmation number for each cat and date of service
-  * number_of_night: Number of days a cat stays in the hotel
-  * arrival_date: Arrival date 
-  * departure_date: Departure date
+  * price_per_night: Price of the room
+* ##### dim_customer:
+  * customer_id: A unique number for each customer
+  * first_name: Number of days a cat stays in the hotel
+  * last_name: Arrival date
+  * address: Address of the customer
+  * phone_number: Contact of the customer
 
 #### 2. [Queries](https://github.com/nguyenhieuhp96/Cat-Hotel-Database/blob/main/SQL%20Queries/SQLQuery.sql)
 ##### 1: Thành phố nào có lượng book phòng nhiều nhất, sắp xếp theo thứ tự giảm dần 
