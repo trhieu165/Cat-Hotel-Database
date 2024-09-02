@@ -49,7 +49,7 @@ Remember this is just a simple database, I created for myself to learns how to u
   * address: Address of the customer
   * phone_number: Contact of the customer
 
-#### 2. [Queries](https://github.com/nguyenhieuhp96/Cat-Hotel-Database/blob/main/SQL%20Queries/SQLQuery.sql](https://github.com/trhieu165/Cat-Hotel-Database/blob/main/queries.sql)
+#### 2. [Queries](https://github.com/trhieu165/Cat-Hotel-Database/blob/main/queries.sql)
 ##### 1: Which city has the most room bookings?
 ##### 2: Total sales by months.
 ##### 3: Total bookings by months.
