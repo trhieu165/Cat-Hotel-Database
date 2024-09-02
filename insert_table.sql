@@ -56,7 +56,7 @@ values
 insert into dim_customer (customer_id, first_name, last_name, address, phone_number)
 values
 	(1, 'Hieu', 'Nguyen', 'Hai Phong', '0793388999'),
-	(2, 'Tuan', 'Le', 'Hanoi', '0912345678'),
+	(2, 'Tuan', 'Le', 'Ha Noi', '0912345678'),
     (3, 'Mai', 'Tran', 'Ho Chi Minh', '0987654321'),
     (4, 'Lan', 'Pham', 'Da Nang', '0901234567'),
     (5, 'Khanh', 'Vu', 'Hue', '0912345679'),
