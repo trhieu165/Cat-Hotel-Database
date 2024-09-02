@@ -58,4 +58,5 @@ Remember this is just a simple database, I created for myself to learns how to u
 ##### 6: List the check-in and check-out times of the cats that have stayed for less than 5 days.
 ##### 7: Find the number of bookings for all cat breeds.
 ##### 8: The number of bookings for each type of room.
-
+##### 9: Provide information on customers who used services in the first half of the year.
+##### 10: Provide the number of male and female cats that booked rooms in the second half of the year.
