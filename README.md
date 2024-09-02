@@ -20,8 +20,8 @@ Remember this is just a simple database, I created for myself to learns how to u
 
 ### II. CREATE DATABASE
 #### 1. Tables
-* Create table: [Create tables](https://github.com/trhieu165/Cat-Hotel-Database/blob/main/create_table.sql)
-* Insert table: [Insert tables](https://github.com/trhieu165/Cat-Hotel-Database/blob/main/insert_table.sql)
+* [Create tables](https://github.com/trhieu165/Cat-Hotel-Database/blob/main/create_table.sql)
+* [Insert tables](https://github.com/trhieu165/Cat-Hotel-Database/blob/main/insert_table.sql)
 * ##### fact_hotel:
   * sale_id: A unique number for each service
   * customer_id: A unique number for each customer
